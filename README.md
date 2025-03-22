@@ -55,9 +55,11 @@ php artisan migrate                                  -----------Requerido
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+PARA EJECUTAR EL PROYECTO ES 
+------------php artisan serve---------- esto colocado en la terminal cuando ya se haya instalado todo
 
-
-
+--------------------------------EL PROYECTO TIENE PREDETERMINADO UN MODO INVITADO PUEDE SALIRSE SIN PROBLEMA ,CREAR SU USUARIO Y SERA DIRIGIDO DIRECTMANTE Y APARECERA YA CON SU USUARIO,
+                                 ES UN PROYECTO QUE PUEDE SER MEJORADO EN GRAN MANERA,NO HAY SOFTWARE PERFECTO,PERO COMO DESARROLLADOR SIEMPRE HAY ALGO QUE MEJORAR.
 
 TECNOLOGIAS USADAS
 
