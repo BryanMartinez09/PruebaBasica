@@ -59,6 +59,12 @@ php artisan migrate                                  -----------Requerido
 
 
 
+TECNOLOGIAS USADAS
+
+LARAVEL(PHP)
+Tailwind
+CSS
+FontAwesome
 
 
 
